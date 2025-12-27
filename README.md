@@ -16,9 +16,9 @@ technology and data analysis can simplify this process.
 - Presents insights through a simple dashboard-style interface
 
 ## Tech Stack (Planned / Current)
-- Frontend: (HTML/CSS/JS / React — whatever you’re using)
-- Backend: (Node / Python / etc.)
-- Data Sources: Public education datasets (AISHE, NCS – exploratory)
+- Frontend: (HTML/CSS/JS / React )
+- Backend: (Node / Python / )
+- Data Sources: Public education datasets
 
 ## Current Status
 This is an ongoing personal project. The focus is currently on
